@@ -77,9 +77,6 @@ While building this project, I practiced:
 
 **Amrita Soni**
 
-* GitHub: [@amritasoni-dev](https://github.com/amritasoni-dev)
-* LinkedIn: [Amrita Soni](https://www.linkedin.com/in/amrita-soni-002786/)
-
 ## ⭐ Support
 
 If you found this project useful or interesting, consider giving it a ⭐ on GitHub!
